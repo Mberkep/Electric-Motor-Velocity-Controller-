@@ -1,0 +1,11 @@
+Compiling C:\Users\berke\Desktop\SALI\main on 28-May-24 at 15:13
+>>> Warning 203 "C:\Users\berke\Desktop\SALI\main.c" Line 73(1,1): Condition always TRUE  8-bit value passed to function, only 8 MSB of duty will be set
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@MULFF)
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@FTOSD)
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@ITOF)
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@SFTOI)
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@SDTOF)
+>>> Warning 216 "C:\Users\berke\Desktop\SALI\main.c" Line 135(1,2): Interrupts disabled during call to prevent re-entrancy:  (@ADDFF)
+      Memory usage:   ROM=39%      RAM=24% - 37%
+      0 Errors,  7 Warnings.
+Build Successful.
